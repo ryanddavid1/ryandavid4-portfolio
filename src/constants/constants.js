@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://firefox.com',
     id: 1,
   },
   {
